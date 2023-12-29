@@ -2,27 +2,27 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-29T23:29:42 IST" name="Surefire suite" finished-at="2023-12-29T23:29:48 IST" duration-ms="6343">
+  <suite started-at="2023-12-29T23:51:21 IST" name="Surefire suite" finished-at="2023-12-29T23:51:27 IST" duration-ms="5993">
     <groups>
     </groups>
-    <test started-at="2023-12-29T23:29:42 IST" name="Surefire test" finished-at="2023-12-29T23:29:48 IST" duration-ms="6343">
+    <test started-at="2023-12-29T23:51:21 IST" name="Surefire test" finished-at="2023-12-29T23:51:27 IST" duration-ms="5993">
       <class name="com.Spotify.OAuth2.test.CRUD_PlayListTest">
-        <test-method signature="testWithoutName()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@44de0113]" started-at="2023-12-29T23:29:42 IST" name="testWithoutName" description="user should not create playist without name(playlist)" finished-at="2023-12-29T23:29:48 IST" duration-ms="6100" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testWithoutName -->
-        <test-method signature="getPlayList_test()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@44de0113]" started-at="2023-12-29T23:29:42 IST" name="getPlayList_test" description="user should be able to get the playlist" finished-at="2023-12-29T23:29:48 IST" duration-ms="5763" status="PASS">
+        <test-method signature="getPlayList_test()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@cc239ba]" started-at="2023-12-29T23:51:21 IST" name="getPlayList_test" description="user should be able to get the playlist" finished-at="2023-12-29T23:51:26 IST" duration-ms="5474" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getPlayList_test -->
-        <test-method signature="updatePlaylistTest()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@44de0113]" started-at="2023-12-29T23:29:42 IST" name="updatePlaylistTest" description="user should be able to update the playlist" finished-at="2023-12-29T23:29:48 IST" duration-ms="6177" status="PASS">
+        <test-method signature="updatePlaylistTest()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@cc239ba]" started-at="2023-12-29T23:51:21 IST" name="updatePlaylistTest" description="user should be able to update the playlist" finished-at="2023-12-29T23:51:26 IST" duration-ms="5702" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updatePlaylistTest -->
-        <test-method signature="CreatePlayList_test()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@44de0113]" started-at="2023-12-29T23:29:42 IST" name="CreatePlayList_test" description="should be able to create a playlist" finished-at="2023-12-29T23:29:48 IST" duration-ms="6216" status="PASS">
+        <test-method signature="CreatePlayList_test()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@cc239ba]" started-at="2023-12-29T23:51:21 IST" name="CreatePlayList_test" description="should be able to create a playlist" finished-at="2023-12-29T23:51:27 IST" duration-ms="5881" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreatePlayList_test -->
+        <test-method signature="testWithoutName()[pri:0, instance:com.Spotify.OAuth2.test.CRUD_PlayListTest@cc239ba]" started-at="2023-12-29T23:51:21 IST" name="testWithoutName" description="user should not create playist without name(playlist)" finished-at="2023-12-29T23:51:26 IST" duration-ms="5671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutName -->
       </class> <!-- com.Spotify.OAuth2.test.CRUD_PlayListTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
