@@ -26,8 +26,8 @@ public class CRUD_PlayListTest {
 	@Story("create a playlist story")
 	@Link("https://example.org")
 	@Link(name="allure",type="mylink")
-	@TmsLink("12345")
-	@Issue("123")
+	//@TmsLink("12345")
+	//@Issue("123")
 	@Description("this is the description about the test")
 	@Test(description ="should be able to create a playlist" )
 	public void CreatePlayList_test() throws Throwable {
