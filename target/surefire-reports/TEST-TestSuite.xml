@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="7.482" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="28.734" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
-    <property name="sun.java.command" value="C:\Users\LENOVO\AppData\Local\Temp\surefire18339729991970778558\surefirebooter-20231229235118742_3.jar C:\Users\LENOVO\AppData\Local\Temp\surefire18339729991970778558 2023-12-29T23-51-18_532-jvmRun1 surefire-20231229235118742_1tmp surefire_0-20231229235118742_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\LENOVO\AppData\Local\Temp\surefire11879271241210163999\surefirebooter-20231230150815187_3.jar C:\Users\LENOVO\AppData\Local\Temp\surefire11879271241210163999 2023-12-30T15-08-14_967-jvmRun1 surefire-20231230150815187_1tmp surefire_0-20231230150815187_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\LENOVO\eclipse-workspace\Spotify\target\test-classes;C:\Users\LENOVO\eclipse-workspace\Spotify\target\classes;C:\Users\LENOVO\.m2\repository\io\rest-assured\rest-assured\4.4.0\rest-assured-4.4.0.jar;C:\Users\LENOVO\.m2\repository\org\codehaus\groovy\groovy\3.0.8\groovy-3.0.8.jar;C:\Users\LENOVO\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.8\groovy-xml-3.0.8.jar;C:\Users\LENOVO\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\LENOVO\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\LENOVO\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\LENOVO\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\LENOVO\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\LENOVO\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\LENOVO\.m2\repository\io\rest-assured\json-path\4.4.0\json-path-4.4.0.jar;C:\Users\LENOVO\.m2\repository\org\codehaus\groovy\groovy-json\3.0.8\groovy-json-3.0.8.jar;C:\Users\LENOVO\.m2\repository\io\rest-assured\rest-assured-common\4.4.0\rest-assured-common-4.4.0.jar;C:\Users\LENOVO\.m2\repository\io\rest-assured\xml-path\4.4.0\xml-path-4.4.0.jar;C:\Users\LENOVO\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.3\jakarta.xml.bind-api-2.3.3.jar;C:\Users\LENOVO\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.2\jakarta.activation-api-1.2.2.jar;C:\Users\LENOVO\.m2\repository\com\sun\xml\bind\jaxb-impl\2.3.3\jaxb-impl-2.3.3.jar;C:\Users\LENOVO\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\LENOVO\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\LENOVO\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.13\jackson-mapper-asl-1.9.13.jar;C:\Users\LENOVO\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.13\jackson-core-asl-1.9.13.jar;C:\Users\LENOVO\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\LENOVO\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\LENOVO\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\LENOVO\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\LENOVO\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar;C:\Users\LENOVO\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\LENOVO\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\LENOVO\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\LENOVO\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\LENOVO\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\LENOVO\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\LENOVO\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\LENOVO\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\LENOVO\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\LENOVO\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\LENOVO\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\LENOVO\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\LENOVO\.m2\repository\io\github\bonigarcia\webdrivermanager\5.1.0\webdrivermanager-5.1.0.jar;C:\Users\LENOVO\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\LENOVO\.m2\repository\com\github\docker-java\docker-java\3.2.13\docker-java-3.2.13.jar;C:\Users\LENOVO\.m2\repository\com\github\docker-java\docker-java-core\3.2.13\docker-java-core-3.2.13.jar;C:\Users\LENOVO\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\LENOVO\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\LENOVO\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\LENOVO\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\LENOVO\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.13\docker-java-transport-httpclient5-3.2.13.jar;C:\Users\LENOVO\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\LENOVO\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\LENOVO\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\LENOVO\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\LENOVO\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\LENOVO\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\LENOVO\.m2\repository\io\rest-assured\json-schema-validator\4.3.3\json-schema-validator-4.3.3.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\LENOVO\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\LENOVO\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\LENOVO\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\LENOVO\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\LENOVO\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\LENOVO\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\LENOVO\.m2\repository\org\hamcrest\hamcrest-core\2.2\hamcrest-core-2.2.jar;C:\Users\LENOVO\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.16.0\jackson-databind-2.16.0.jar;C:\Users\LENOVO\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.16.0\jackson-annotations-2.16.0.jar;C:\Users\LENOVO\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.16.0\jackson-core-2.16.0.jar;C:\Users\LENOVO\.m2\repository\org\skyscreamer\jsonassert\1.5.0\jsonassert-1.5.0.jar;C:\Users\LENOVO\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar;C:\Users\LENOVO\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar;C:\Users\LENOVO\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\LENOVO\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\LENOVO\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\LENOVO\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar;C:\Users\LENOVO\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\LENOVO\.m2\repository\org\apache\logging\log4j\log4j-api\2.21.1\log4j-api-2.21.1.jar;C:\Users\LENOVO\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar;C:\Users\LENOVO\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar;C:\Users\LENOVO\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar;C:\Users\LENOVO\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar;C:\Users\LENOVO\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\LENOVO\.m2\repository\org\projectlombok\lombok\1.18.30\lombok-1.18.30.jar;C:\Users\LENOVO\.m2\repository\io\qameta\allure\allure-testng\2.24.0\allure-testng-2.24.0.jar;C:\Users\LENOVO\.m2\repository\io\qameta\allure\allure-java-commons\2.24.0\allure-java-commons-2.24.0.jar;C:\Users\LENOVO\.m2\repository\io\qameta\allure\allure-model\2.24.0\allure-model-2.24.0.jar;C:\Users\LENOVO\.m2\repository\io\qameta\allure\allure-test-filter\2.24.0\allure-test-filter-2.24.0.jar;C:\Users\LENOVO\.m2\repository\io\qameta\allure\allure-rest-assured\2.24.0\allure-rest-assured-2.24.0.jar;C:\Users\LENOVO\.m2\repository\io\qameta\allure\allure-attachments\2.24.0\allure-attachments-2.24.0.jar;C:\Users\LENOVO\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,14 +27,13 @@
     <property name="java.version.date" value="2023-07-18"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
     <property name="file.separator" value="\"/>
-    <property name="style.color" value="always"/>
     <property name="basedir" value="C:\Users\LENOVO\eclipse-workspace\Spotify"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\LENOVO\AppData\Local\Temp\surefire18339729991970778558\surefirebooter-20231229235118742_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LENOVO\AppData\Local\Temp\surefire11879271241210163999\surefirebooter-20231230150815187_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.20+9-LTS-256"/>
@@ -54,7 +53,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/LENOVO/Downloads/eclipse-java-2023-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047/jre/bin/server;C:/Users/LENOVO/Downloads/eclipse-java-2023-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\nodejs\;C:\Users\LENOVO\AppData\Local\Android\Sdk\tools\bin;C:\Users\LENOVO\AppData\Local\Android\Sdk\tools;C:\Users\LENOVO\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\nodejs\node_modules\npm\bin;C:\Program Files\Git\cmd;C:\Users\LENOVO\Downloads\apache-maven-3.9.6-bin\apache-maven-3.9.6\bin;C:\Users\LENOVO\scoop\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\LENOVO\AppData\Local\Microsoft\WindowsApps;;C:\Users\LENOVO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\LENOVO\AppData\Roaming\npm;C:\Users\LENOVO\Downloads\eclipse-java-2023-09-R-win32-x86_64\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\nodejs\;C:\Users\LENOVO\AppData\Local\Android\Sdk\tools\bin;C:\Users\LENOVO\AppData\Local\Android\Sdk\tools;C:\Users\LENOVO\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\nodejs\node_modules\npm\bin;C:\Program Files\Git\cmd;C:\Users\LENOVO\Downloads\apache-maven-3.9.6-bin\apache-maven-3.9.6\bin;C:\Users\LENOVO\scoop\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\LENOVO\AppData\Local\Microsoft\WindowsApps;C:\Users\LENOVO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\LENOVO\AppData\Roaming\npm;."/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vm.version" value="11.0.20+9-LTS-256"/>
@@ -62,7 +61,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="getPlayList_test" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="5.64">
+  <testcase name="testWithoutName" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="6.906">
     <system-out><![CDATA[renewing token.....
 renewing token.....
 renewing token.....
@@ -128,14 +127,14 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-date: Fri, 29 Dec 2023 18:21:24 GMT
+date: Sat, 30 Dec 2023 09:38:20 GMT
 content-type: application/json
 vary: Accept-Encoding
-set-cookie: __Host-device_id=AQBn8TQtHn-JGxQRBNp-GArHOacnYTYyQejScgUi0Df8bp-svsp-16AK626g3W3RDdi_cpXk-44nIGHT8Uf297EX9qx5LqTj3Ts;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
+set-cookie: __Host-device_id=AQAr1pGk0FQcTj41kZLNI2dLVbx52JIy343YM0cc9sU9VbyQ_ir0WXTNeKXIu4vF2K32ZQ57RKMJYqO8uaOsdU0w0mXDeA-f-SE;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
 set-cookie: sp_tr=false;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
-sp-trace-id: 136f7144dc8405c5
+sp-trace-id: 35d7d01fa6104df8
 content-encoding: gzip
-x-envoy-upstream-service-time: 26
+x-envoy-upstream-service-time: 19
 server: envoy
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
@@ -144,62 +143,18 @@ Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 Transfer-Encoding: chunked
 
 {
-    "access_token": "BQDJE6iYiogIo2R3BULy2JCC3xIxvdd8KaDA-x719JV44BajQyQJ4wea75WcnzOkKSdR_JKAOobWU02RUrvgz2BGFxYCKg4j0DLqfDYtKcZsTkxUTLoYuryI2HwV83emgrOF6cddeYMUDzAPzei-xNR7yoBNmTU5QiBI0VqYn8MUXiF4aMY03u_FQx8OBc8E7SakC9ZopvGzLB-_iXQNGk3lVfGUNVpurgam4AT_eq-EjpYrWRQaqCnBWJPw0tc4IA-VL2dQpC3oJORp",
+    "access_token": "BQDA6Bg2t226u-CHqvGrlpUUH7Wz1NZC8HtgRcSV6xwRmOSTvUjnvG5Qx1rvYET3QhpSq-9K30oeRbENwrqLnOue5fM5LUnPLhCKAQ6NdO-7xbm3jocWn1TPQKZmyS3K49OynpZiMuNl39-MoHV6zNd0qV0HxRt9VMTRvfRHXbVKxPNAsEGDXYEHgxqODJaAv3v-Y6Leayl66F5MGbzt7ftn7tClg6-5hTcoEfyzo83jxYRg-uqm99n6bi5JPUHOfmbx97VRqYs8AhlQ",
     "token_type": "Bearer",
     "expires_in": 3600,
     "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
 }
 HTTP/1.1 200 OK
-date: Fri, 29 Dec 2023 18:21:24 GMT
+date: Sat, 30 Dec 2023 09:38:20 GMT
 content-type: application/json
 vary: Accept-Encoding
-set-cookie: __Host-device_id=AQARvhQ-xpyS1gJJA60JcHWcy2ytefvY3zxmZNLCaJuTKiNkPQEbsGZ8u97S3TjnXcqIgmuBU76Yo6RqyPCLVCFchU3YBby6EbM;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
+set-cookie: __Host-device_id=AQB_Nt8-CSeRC9R6AJT96KeRie_OSNC31oVCWw1H4aI8Ql_zgh2gzwuEp_zw2P2xsLNdlI9i8UZOiCdJz0kqT3sm5q3ww6lbMz4;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
 set-cookie: sp_tr=false;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
-sp-trace-id: 565df5ed7dcd2a8d
-content-encoding: gzip
-x-envoy-upstream-service-time: 24
-server: envoy
-strict-transport-security: max-age=31536000
-x-content-type-options: nosniff
-Via: HTTP/2 edgeproxy, 1.1 google
-Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-Transfer-Encoding: chunked
-
-{
-    "access_token": "BQBdiVKa1AMmEZx5wwF2CwV4kKUPzEmZQ73UrL2OUtasVQZYUyN5Nar7EM8ls225hmKScBKg6h3ZXSRTbabZ7Lts2jZeKEnhw1UHNZkb0tmfPLb_TOb5sIwOOqpfohCv4618qxEpKs8IggdrNgpQBz_CXxhfbOzr4yk86bhd58jIJjbqYXdgfs02nqwAiyChgdVeL7uctZxBUoiOnGhM8Ljmtv8vZ1UCmTc0am3sqmO7wNXe6S9SIykd3kkf3gZuh3JGHjwYFAOAsZmu",
-    "token_type": "Bearer",
-    "expires_in": 3600,
-    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
-}
-HTTP/1.1 200 OK
-date: Fri, 29 Dec 2023 18:21:24 GMT
-content-type: application/json
-vary: Accept-Encoding
-set-cookie: __Host-device_id=AQDRf96Gi1PLU8RU1z_eSa9pBQEL5vVU8v_rng6saIv-0O5HGEvG4nOnmYLyKVbSLiJOAcywq8MR9foUbg76FnTVZ-V5wVcxorA;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
-set-cookie: sp_tr=false;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
-sp-trace-id: 3b0f619ca9760b33
-content-encoding: gzip
-x-envoy-upstream-service-time: 26
-server: envoy
-strict-transport-security: max-age=31536000
-x-content-type-options: nosniff
-Via: HTTP/2 edgeproxy, 1.1 google
-Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-Transfer-Encoding: chunked
-
-{
-    "access_token": "BQCgCWGKPTqACm4qugdbACeDarztsv0lK3pnIAzedyl_BZDdqgXNuYe8TXv8_5SI-3KAt0GwNhzpEo7MmXDOm4_-roPj98_O7r5rHBk_9aUaO1gQ7RFAgmtcyQVVwi4QH0RVg8XHLWqX06f_TC0ECVmVfBVxlN2TvS4WW7MRCvGf8TrzzHGhITDLyhR76Rr7c01G51UtWxjQ3ySkKu--Gs7rKrmNvOPChEAl-60B3vDIPNgonkUTJVhnsBhZ-ej761rJKoRwSJCjm8jb",
-    "token_type": "Bearer",
-    "expires_in": 3600,
-    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
-}
-HTTP/1.1 200 OK
-date: Fri, 29 Dec 2023 18:21:24 GMT
-content-type: application/json
-vary: Accept-Encoding
-set-cookie: __Host-device_id=AQAHqR03IvcYv8Nl9BN4_2rFcQuj1X1G7oWLKVpC5vk3_QbU8nXevVFVtQeYTgr61KmMJ0w_jVWkGDXnGwn4kIyQqc0PJa11MgA;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
-set-cookie: sp_tr=false;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
-sp-trace-id: 280e84e11369aa86
+sp-trace-id: ae445e2b78b7abe1
 content-encoding: gzip
 x-envoy-upstream-service-time: 22
 server: envoy
@@ -210,7 +165,29 @@ Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 Transfer-Encoding: chunked
 
 {
-    "access_token": "BQAMpexarPL6PZExWFgbMbSyaTESAXugivp6yiPf2ofC-20qD3BWdS85hBccwv2CNw6WqJsSmeeoz81C3CadqO9UA1MYuHPSHR6WV5BpEVxcanHSzgE7cXb_ZDopGEWwxhpdzr8E90vnQHGR2VhFE6abPZ36Mnglul5CGCdyNDNlJA_i9WmMScocWtHNXRDsNIazqNytndxFsb0KsvVViFH7jd_X2ms2C1KhUOFwrrBqjYF9HZpOyQdflN7ZvdeJP3RnzREcJMUvqkIX",
+    "access_token": "BQCfL2m0ym_ccQ5_L4x6xe2lNIFhPjPtz2_AWzNrmbO-WOWlSfye2EmNbvygggTck9XV1Nas1buZXiJVhygRMkHlVnXE1CtROG0MsMgRKoPh8mty9L9J1U_TGNo8JsamGH6Mbs8h-nMd7zOqN-pH7n8jh2B3pY2pzvgo8gdyv4RyR_yPelSauClNoVyb4UKU8ZKrOM40L0GEY841Db-hPkq0r1_GindtkaF4cEDdKKMifff8K2QnvNXAna52LprRbB_2x0BXYOPOn4Tw",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
+}
+HTTP/1.1 200 OK
+date: Sat, 30 Dec 2023 09:38:20 GMT
+content-type: application/json
+vary: Accept-Encoding
+set-cookie: __Host-device_id=AQDMcxm6FBG_KcBbFZPRBcjpGlUTZgcXFyscJf08awszwwVIjwRBR7ZortA2_fXonWhspPL5GIRPx6NQQo-BNwJZhwr9yjGenv4;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
+set-cookie: sp_tr=false;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
+sp-trace-id: 33670c216d82304f
+content-encoding: gzip
+x-envoy-upstream-service-time: 22
+server: envoy
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "access_token": "BQAk7ONhrQGtRzER6_2fQlSHMM87vDjPTLpbZsrBp_4dEkXAFKB4XlOzx00v_rFJUKvQFifa_JqX-mPOcsJqEhXNDIyiGr4QXmAR8ChNHJTnLizGR3mhSvyc0Eot-e27W843U-7yq7d55CkB-oJgwMKTOf0d_Adb0h7or-WvKtjV5JPvUbKINEB1CEuI-bAZyD79oNx0NiXvIrq0wkK8hL4PssIbkvS3OaB0kKnU2w2g3SABxMb9smlq5SbOTg9pdI_JrDMo4OmfEbEX",
     "token_type": "Bearer",
     "expires_in": 3600,
     "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
@@ -222,7 +199,7 @@ Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=Bearer BQCgCWGKPTqACm4qugdbACeDarztsv0lK3pnIAzedyl_BZDdqgXNuYe8TXv8_5SI-3KAt0GwNhzpEo7MmXDOm4_-roPj98_O7r5rHBk_9aUaO1gQ7RFAgmtcyQVVwi4QH0RVg8XHLWqX06f_TC0ECVmVfBVxlN2TvS4WW7MRCvGf8TrzzHGhITDLyhR76Rr7c01G51UtWxjQ3ySkKu--Gs7rKrmNvOPChEAl-60B3vDIPNgonkUTJVhnsBhZ-ej761rJKoRwSJCjm8jb
+Headers:		Authorization=Bearer BQDA6Bg2t226u-CHqvGrlpUUH7Wz1NZC8HtgRcSV6xwRmOSTvUjnvG5Qx1rvYET3QhpSq-9K30oeRbENwrqLnOue5fM5LUnPLhCKAQ6NdO-7xbm3jocWn1TPQKZmyS3K49OynpZiMuNl39-MoHV6zNd0qV0HxRt9VMTRvfRHXbVKxPNAsEGDXYEHgxqODJaAv3v-Y6Leayl66F5MGbzt7ftn7tClg6-5hTcoEfyzo83jxYRg-uqm99n6bi5JPUHOfmbx97VRqYs8AhlQ
 				Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
@@ -241,7 +218,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Fri, 29 Dec 2023 18:21:25 GMT
+date: Sat, 30 Dec 2023 09:38:21 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -322,6 +299,76 @@ Body:
     "description": "Testing spotify",
     "public": false
 }
+HTTP/1.1 400 Bad Request
+content-type: application/json; charset=utf-8
+cache-control: private, max-age=0
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+date: Sat, 30 Dec 2023 09:38:22 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "error": {
+        "status": 400,
+        "message": "Missing required field: name"
+    }
+}
+HTTP/1.1 200 OK
+cache-control: private, max-age=0
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+Content-Length: 0
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+date: Sat, 30 Dec 2023 09:38:22 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="updatePlaylistTest" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="6.91"/>
+  <testcase name="getPlayList_test" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="6.916"/>
+  <testcase name="CreatePlayList_test" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="26.986">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+date: Sat, 30 Dec 2023 09:38:42 GMT
+content-type: application/json
+vary: Accept-Encoding
+set-cookie: __Host-device_id=AQABcg_IYwdEoPyrPk-qITVGGje6KG7C-QviKPIQuo896rzRavMPFr5nx7atFHAfZPwhNr2POC0hTUXfBZikzjD8HULl90fGw3Q;Version=1;Path=/;Max-Age=2147483647;Secure;HttpOnly;SameSite=Lax
+set-cookie: sp_tr=false;Version=1;Domain=accounts.spotify.com;Path=/;Secure;SameSite=Lax
+sp-trace-id: c8c235298d6965de
+content-encoding: gzip
+x-envoy-upstream-service-time: 21
+server: envoy
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "access_token": "BQBdfK-phQMRuC_AlYsyCly_IPm_lHKRoFpXMqgVSKwGSf-XEf2hFFtQIg6VJKugLgFrPl3EbwMz9_pp--9Yq-MM3sTblibzGP0N4PKPbvtpSSj3ELYzFLxFwO3Bmp8E6TIaRDCDX85_-IZBxA3CNt6945Yx_7HUkYLjuiEG7aL373_sbFU9H8ePX6-TztiaKBByJzDbEn1IDRuesGtmyXUEHeUcMxsZbicFHAPnmOTtSvkQUDBtSwhru3Li6imBSqN0TZSUxn7rraH4",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
+}
 Request method:	POST
 Request URI:	https://api.spotify.com/v1/users/31b4n7nf3rjv3x2toy3bthrfzwoi/playlists
 Proxy:			<none>
@@ -339,16 +386,10 @@ Body:
     "description": "Testing spotify",
     "public": false
 }
-]]></system-out>
-    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-]]></system-err>
-  </testcase>
-  <testcase name="testWithoutName" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="5.678">
-    <system-out><![CDATA[HTTP/1.1 400 Bad Request
+HTTP/1.1 201 Created
 content-type: application/json; charset=utf-8
 cache-control: private, max-age=0
+location: https://api.spotify.com/v1/playlists/2ivjX7IHiGiEzinLMDgSgq
 x-robots-tag: noindex, nofollow
 access-control-allow-origin: *
 access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
@@ -358,53 +399,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Fri, 29 Dec 2023 18:21:26 GMT
-server: envoy
-Via: HTTP/2 edgeproxy, 1.1 google
-Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-Transfer-Encoding: chunked
-
-{
-    "error": {
-        "status": 400,
-        "message": "Missing required field: name"
-    }
-}
-]]></system-out>
-  </testcase>
-  <testcase name="updatePlaylistTest" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="5.699">
-    <system-out><![CDATA[HTTP/1.1 200 OK
-cache-control: private, max-age=0
-x-robots-tag: noindex, nofollow
-access-control-allow-origin: *
-access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
-access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
-access-control-allow-credentials: true
-access-control-max-age: 604800
-Content-Length: 0
-strict-transport-security: max-age=31536000
-x-content-type-options: nosniff
-date: Fri, 29 Dec 2023 18:21:26 GMT
-server: envoy
-Via: HTTP/2 edgeproxy, 1.1 google
-Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-]]></system-out>
-  </testcase>
-  <testcase name="CreatePlayList_test" classname="com.Spotify.OAuth2.test.CRUD_PlayListTest" time="5.884">
-    <system-out><![CDATA[HTTP/1.1 201 Created
-content-type: application/json; charset=utf-8
-cache-control: private, max-age=0
-location: https://api.spotify.com/v1/playlists/1n6eYuRg3UBkIGIqhGrwY9
-x-robots-tag: noindex, nofollow
-access-control-allow-origin: *
-access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
-access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
-access-control-allow-credentials: true
-access-control-max-age: 604800
-content-encoding: gzip
-strict-transport-security: max-age=31536000
-x-content-type-options: nosniff
-date: Fri, 29 Dec 2023 18:21:26 GMT
+date: Sat, 30 Dec 2023 09:38:42 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -414,14 +409,14 @@ Transfer-Encoding: chunked
     "collaborative": false,
     "description": "Testing spotify",
     "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/1n6eYuRg3UBkIGIqhGrwY9"
+        "spotify": "https://open.spotify.com/playlist/2ivjX7IHiGiEzinLMDgSgq"
     },
     "followers": {
         "href": null,
         "total": 0
     },
-    "href": "https://api.spotify.com/v1/playlists/1n6eYuRg3UBkIGIqhGrwY9",
-    "id": "1n6eYuRg3UBkIGIqhGrwY9",
+    "href": "https://api.spotify.com/v1/playlists/2ivjX7IHiGiEzinLMDgSgq",
+    "id": "2ivjX7IHiGiEzinLMDgSgq",
     "images": [
         
     ],
@@ -438,9 +433,9 @@ Transfer-Encoding: chunked
     },
     "primary_color": null,
     "public": false,
-    "snapshot_id": "MSw0ZTlkZDJiNzY3NGNiNjE0ZGI3M2JkNDA1MjI3NGE5ZGI0MjdiMGU2",
+    "snapshot_id": "MSxkNjVhY2M1YTdmYzBiZTM5NzJhODk3ZmQwNmM2ODFiYTc5Njg0YWM5",
     "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/1n6eYuRg3UBkIGIqhGrwY9/tracks",
+        "href": "https://api.spotify.com/v1/playlists/2ivjX7IHiGiEzinLMDgSgq/tracks",
         "items": [
             
         ],
@@ -451,7 +446,7 @@ Transfer-Encoding: chunked
         "total": 0
     },
     "type": "playlist",
-    "uri": "spotify:playlist:1n6eYuRg3UBkIGIqhGrwY9"
+    "uri": "spotify:playlist:2ivjX7IHiGiEzinLMDgSgq"
 }
 ]]></system-out>
   </testcase>
