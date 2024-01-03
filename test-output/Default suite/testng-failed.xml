@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Spotify.OAuth2.test.Get_PlaylistTest">
+      <class name="com.Spotify.OAuth2.test.CRUD_PlayListTest">
         <methods>
-          <include name="configureBeforeClass"/>
-          <include name="CreatePlayList_test"/>
+          <include name="getPlayList_test"/>
         </methods>
-      </class> <!-- com.Spotify.OAuth2.test.Get_PlaylistTest -->
+      </class> <!-- com.Spotify.OAuth2.test.CRUD_PlayListTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
